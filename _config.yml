@@ -1,7 +1,7 @@
 # Site settings
 title:          Srinivasaragavan Vijayaraghavan
 description:    "Homepage"
-url:            "https://Srinivasaragavan.github.io/"
+url:            "https://srinithedatajunkie.github.io/Myprotfolio/"
 
 # Google Analytics
 google_analytics: UA-105252522-2 # out your google-analytics code
@@ -9,7 +9,7 @@ google_analytics: UA-105252522-2 # out your google-analytics code
 # Author
 author:
   name:         Srinivasaragavan Vijayaraghavan
-  url:          https://Srinivasaragavan.github.io/
+  url:          https://srinithedatajunkie.github.io/Myprotfolio/
   email:        srinirag94@gmail.com
 
 # Build settings
