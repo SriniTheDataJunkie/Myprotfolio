@@ -1,5 +1,5 @@
 ---
-layout: Blog
+layout: post
 title: "About Me"
 author: Srinivasaragavan Vijayaraghavan
 social: true
