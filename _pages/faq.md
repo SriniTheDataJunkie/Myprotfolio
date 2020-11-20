@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frequently Asked Questions (and Answers)"
-author: MMA
+author: Srinivasaragavan Vijayaraghvab
 comments: false
 permalink: /faq/
 ---
