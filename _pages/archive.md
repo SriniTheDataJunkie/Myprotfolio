@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Archive"
-author: MMA
+author: Srinivasaragavan Vijayaraghavan
 social: true
 comments: false
 permalink: /archive/
