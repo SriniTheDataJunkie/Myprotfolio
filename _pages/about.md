@@ -44,7 +44,7 @@ You can find my Resumé here:
 [Resumé](https://github.com/SriniTheDataJunkie/My-Resume/blob/main/Resume-Srinivasaragavan-Vijayaraghavan.pdf){:target="_blank"} 
 
 <br>
-**Srinivasaragavan Vijayaraghavan** (M.Sc.)<br>
+**Srinivasaragavan Vijayaraghavan** (B.E,PGD Data Science)<br>
 Software Engineer - Consultant (System Management)<br>
 Larsen and Toubro Infotech(LTI), India<br>
 DLF IT PARK,Ramapuram<br>
