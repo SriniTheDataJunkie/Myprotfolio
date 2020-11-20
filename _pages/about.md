@@ -11,7 +11,7 @@ permalink: /about/
 <img src="https://github.com/SriniTheDataJunkie/Myprotfolio/blob/master/Srini.png" alt="Srinivasaragavan Vijayaraghavan" align="center" style="width: 35%; height: 35%; margin:15px">
 </center> 
 
-Hello! I'm Srinivasaragavan, a Data Science Enthusiast and an avid learner from the wolrd of Mainframes.Currently pursuing Post Graduate Diploma from International Institute of Information Technology,Bengaluru.
+Hello! I'm Srinivasaragavan, a Data Science Enthusiast and an avid learner from the world of Mainframes.Currently pursuing Post Graduate Diploma from International Institute of Information Technology,Bengaluru.
 
 Apophthegm: To strive for Excellence in the ﬁeld of Banking & Finance as a Risk Analyst – with dedication, focus, proactive approach, positive attitude and passion and to utilize my knowledge and skills in the best possible way for the fulfilment of organizational goals, by leveraging with intuitive skills like AI and ML and Deep learning
 
