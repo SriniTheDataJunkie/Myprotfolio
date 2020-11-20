@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "About Me"
-author: Srinivasaragavan Vijayaraghavan
+author: MMA
 social: true
 comments: false
 permalink: /about/
 ---
 
 <center>
-<img src="https://github.com/SriniTheDataJunkie/My-Resume/blob/main/Srini.png" alt="Srini" align="right" style="width: 35%; height: 35%; margin:15px">
+<img src="https://github.com/SriniTheDataJunkie/My-Resume/blob/main/Srini.png" alt="MMA" align="right" style="width: 35%; height: 35%; margin:15px">
 </center> 
 
 Hello! I'm Srinivasaragavan, a Data Science Enthusiast and an avid learner from the wolrd of Mainframes.Currently pursuing Post Graduate Diploma from International Institute of Information Technology,Bengaluru.
