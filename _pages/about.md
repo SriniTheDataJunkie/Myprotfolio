@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: Blog
 title: "About Me"
-author: MMA
+author: Srinivasaragavan Vijayaraghavan
 social: true
 comments: false
 permalink: /about/
@@ -11,35 +11,52 @@ permalink: /about/
 <img src="/assets/2017-09-03-23.35.54.jpg" alt="MMA" align="right" style="width: 35%; height: 35%; margin:15px">
 </center> 
 
-Hello! I'm Murat, PhD-level educated, bilingual statistician and data scientist, who design, develop and implement advanced predictive methods, powered by machine learning and deep learning algorithms, in order to provide actionable insights from large volumes of real-world, structured and unstructured data in order to satisfy the business needs for decision making. My research interests include but are not limited to the following areas: machine learning and deep learning algorithms, supervised learning, and unsupervised learning methods, time series forecasting and modeling, big data, distribution theory, statistical analysis, optimization and operational research. 
+Hello! I'm Srinivasaragavan, a Data Science Enthusiast and an avid learner from the wolrd of Mainframes.Currently pursuing Post Graduate Diploma from International Institute of Information Technology,Bengaluru.
 
-I completed my Ph.D. dissertation, titled ”Advances and Applications in Deep Learning” under the supervision of [Dr. Michel Ballings](http://ballings.co/){:target="_blank"} (mb@utk.edu).
+Apophthegm: To strive for Excellence in the ﬁeld of Banking & Finance as a Risk Analyst – with dedication, focus, proactive approach, positive attitude and passion and to utilize my knowledge and skills in the best possible way for the fulfilment of organizational goals, by leveraging with intuitive skills like AI and ML and Deep learning
 
-I was a Master of Science student at [Department of Statistics](http://www.stat.hacettepe.edu.tr/){:target="_blank"} of [Hacettepe University](https://www.hacettepe.edu.tr/){:target="_blank"} in Ankara, Turkey. I received my degree at the same department in the division of Operational Research. I completed my thesis entitled "Support Vector Machines/Regression" under the supervision of Prof. Dr. Turhan Menteş. 
+Software engineer with 4+ Years of Experience in Cards, Payments, Invoices, and acquiring services with mainframe technology stack. With self-interest, developed my professional skill set with programming languages like python, python Data science frameworks, and ML as an avid enthusiastic learner who participated in Hackathons and Kaggle competition, and solves case studies.
 
-You can find my one-page resume and full CV below:
+Following gives the overview of my professional expertise-
+- A client/ customer-centric professional with Onsite experience at NETS Denmark A/S as an external Information Technology Consultant for Card Acquiring and Merchant Services.
+- Proficiently skilled in handling XML files and data in the mainframe.
+- Experienced in solving batch and real-time errors in acquiring and merchant services.
+- Experienced Systematic developer with good knowledge in Banking and financial services.
+- Strong knowledge in Merchant settlement, payments, collections and reconciliation, Risk management, transaction handling.
+- Have good knowledge in Danske bank, Nordea & Dnb Nordics, E-CARD Poland, DIBS Payment processing.
+- Strong knowledge in Webservices, SOAP UI, DataPower integration, and solved many technical challenges in the Merchant Onboarding for PAN NORDIC.
+- Successfully solved technical challenges in the Acquiring system for maintaining production stability.
+- Directly interacted with business SMEs and customers for gathering requirements and solving business issues with an analytical skillset.
+- Always had a better understanding of the requirement and proposed a well suited systematic solution approach that benefits the business.
+- Proper management of the timeline estimated for the projects. and developed and delivered SDLC artifacts with ensured quality.
+- Pro-actively Identified system bugs and provided quick solutions.
+- As Project Quality Facilitator, ensured the quality of the deliverable, and acted as a Junior Quality Manager for Cards Acquiring.
+- Always will lend a hand to fellow colleagues in the team when they are stuck up with solving the problems.
+- Brainbench certified Mainframe COBOL Developer.
+- A budding ML aspirant with knowledge in Stats, Linear Algebra, Data structure algorithms, system design, data pre-processing, feature engineering, and model deployment.
 
-[Resumé](https://github.com/mmuratarat/MMA-CV/blob/master/Arat_s_One_page_CV.pdf){:target="_blank"} (1 Page)
+Am a Legacy developer,Who currently is under tranisiton as a Data Scientist to develop and implement advanced predictive methods, powered by machine learning and deep learning algorithms, in order to provide actionable insights from large volumes of real-world, structured and unstructured data in order to satisfy the business needs for decision making. 
 
-[Full](https://github.com/mmuratarat/MMA-CV/blob/master/MMA_Full_CV.pdf){:target="_blank"} (6 Pages)
+My interests include but are not limited to the following areas: machine learning and deep learning algorithms, supervised learning, and unsupervised learning methods, time series forecasting and modeling, big data, distribution theory, statistical analysis, optimization. 
+
+You can find my Resumé here:
+
+[Resumé](https://github.com/SriniTheDataJunkie/My-Resume/blob/main/Resume-Srinivasaragavan-Vijayaraghavan.pdf){:target="_blank"} 
 
 <br>
-**Mustafa Murat ARAT** (M.Sc.)<br>
-Department of Business Analytics and Statistics<br>
-James A. Haslam II College of Business<br>
-University of Tennessee<br>
-916 Volunteer Blvd, 252A Stokely Management Center<br>
-Knoxville, TN 37996<br>
+**Srinivasaragavan Vijayaraghavan** (M.Sc.)<br>
+Software Engineer - Consultant (System Management)<br>
+Larsen and Toubro Infotech(LTI), India<br>
+DLF IT PARK,Ramapuram<br>
+Chennai,India<br>
 
 If you are interested in collaborating and doing some great work, please reach out to me via:
 
 <div class="contact-buttons" style="line-height:160%;margin-left:30px;margin-top:10px">
 <p>
-<a href="https://scholar.google.com/citations?user=TnkvSpsAAAAJ" target="_blank" style="color:#515151;"><i class="fa fa-graduation-cap"></i> &nbsp; Google Scholar<br></a> 
- <a href="https://stackexchange.com/users/1720655/mustafa-murat-arat" target="_blank" style="color:#515151;"><i class="fa fa-stack-exchange"></i> &nbsp; Stack Exchange<br></a> 
-<a href="mailto:arat.murat@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a> 
-<a href="https://github.com/mmuratarat" target="_blank" style="color:#515151;"><i class="fa fa-github" style="font-size:1em"></i> &nbsp; GitHub<br></a> 
-<a href="https://www.linkedin.com/in/mmuratarat/" target="_blank" style="color:#515151;"><i class="fa fa-linkedin" style="font-size:1em"></i> &nbsp; LinkedIn<br></a>
+<a href="mailto:srinirag94@gmail.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a> 
+<a href="https://github.com/SriniTheDataJunkie" target="_blank" style="color:#515151;"><i class="fa fa-github" style="font-size:1em"></i> &nbsp; GitHub<br></a> 
+<a href="https://www.linkedin.com/in/srinivasaragavan-vijayaragavan-662a32a8/" target="_blank" style="color:#515151;"><i class="fa fa-linkedin" style="font-size:1em"></i> &nbsp; LinkedIn<br></a>
 </p>
 </div>
 
@@ -50,5 +67,5 @@ I appreciate any and all feedback. If I've made an error or if you have a sugges
 <i class="fa fa-asterisk" style="font-size:1em"></i> <i>All opinions and views are my own and do not represent my employer(s).</i>
 </P>
 
-
+<blockquote> “If you torture the data long enough, it will confess.” — Ronald H. Coase </blockquote>
 <blockquote> It matters not how strait the gate, How charged with punishments the scroll, I am the master of my fate, I am the captain of my soul." - William Hernest Henley</blockquote>
