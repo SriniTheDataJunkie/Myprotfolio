@@ -17,6 +17,10 @@ Apophthegm: To strive for Excellence in the ﬁeld of Banking & Finance as a Ris
 
 Software engineer with 4+ Years of Experience in Cards, Payments, Invoices, and acquiring services with mainframe technology stack. With self-interest, developed my professional skill set with programming languages like python, python Data science frameworks, and ML as an avid enthusiastic learner who participated in Hackathons and Kaggle competition, and solves case studies.
 
+Am a Legacy developer,Who currently is under tranisiton as a Data Scientist to develop and implement advanced predictive methods, powered by machine learning and deep learning algorithms, in order to provide actionable insights from large volumes of real-world, structured and unstructured data in order to satisfy the business needs for decision making. 
+
+My interests include but are not limited to the following areas: machine learning and deep learning algorithms, supervised learning, and unsupervised learning methods, time series forecasting and modeling, big data, distribution theory, statistical analysis, optimization. 
+
 Following gives the overview of my professional expertise-
 - A client/ customer-centric professional with Onsite experience at NETS Denmark A/S as an external Information Technology Consultant for Card Acquiring and Merchant Services.
 - Proficiently skilled in handling XML files and data in the mainframe.
@@ -35,9 +39,6 @@ Following gives the overview of my professional expertise-
 - Brainbench certified Mainframe COBOL Developer.
 - A budding ML aspirant with knowledge in Stats, Linear Algebra, Data structure algorithms, system design, data pre-processing, feature engineering, and model deployment.
 
-Am a Legacy developer,Who currently is under tranisiton as a Data Scientist to develop and implement advanced predictive methods, powered by machine learning and deep learning algorithms, in order to provide actionable insights from large volumes of real-world, structured and unstructured data in order to satisfy the business needs for decision making. 
-
-My interests include but are not limited to the following areas: machine learning and deep learning algorithms, supervised learning, and unsupervised learning methods, time series forecasting and modeling, big data, distribution theory, statistical analysis, optimization. 
 
 You can find my Resumé here:
 
