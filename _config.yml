@@ -1,16 +1,16 @@
 # Site settings
 title:          Mustafa Murat ARAT
 description:    "Homepage"
-url:            "https://mmuratarat.github.io/"
+url:            "https://Srinivasaragavan.github.io/"
 
 # Google Analytics
 google_analytics: UA-105252522-2 # out your google-analytics code
 
 # Author
 author:
-  name:         Mustafa Murat ARAT
-  url:          https://mmuratarat.github.io/
-  email:        arat.murat@gmail.com
+  name:         Srinivasaragavan Vijayaraghavan
+  url:          https://Srinivasaragavan.github.io/
+  email:        srinirag94@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -37,4 +37,4 @@ paginate:       5
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: https-mmuratarat-github-io
+    shortname: https-Srinivasaragavan-github-io
