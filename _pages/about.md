@@ -8,7 +8,7 @@ permalink: /about/
 ---
 
 <center>
-<img src="/assets/Srini.jpg" alt="Srinivasaragavan Vijayaraghavan" align="center" style="width: 35%; height: 35%; margin:15px">
+<img src="/assets/Srini.jpg" alt="Srini" align="right" style="width: 35%; height: 35%; margin:15px">
 </center> 
 
 Hello! I'm Srinivasaragavan, a Data Science Enthusiast and an avid learner from the world of Mainframes.Currently pursuing Post Graduate Diploma from International Institute of Information Technology,Bengaluru.
