@@ -46,7 +46,7 @@ You can find my Resumé here:
 
 <br>
 **Srinivasaragavan Vijayaraghavan** (B.E,PGD Data Science)<br>
-Software Engineer - Consultant (System Management)<br>
+Senior Consultant (System Management)<br>
 Larsen and Toubro Infotech(LTI), India<br>
 DLF IT PARK,Ramapuram<br>
 Chennai,India<br>
