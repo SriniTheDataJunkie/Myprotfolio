@@ -1,1 +1,1 @@
-My personal website https://Srinivasaragavan.github.io
+My personal website https://srinithedatajunkie.github.io/Myprotfolio/
