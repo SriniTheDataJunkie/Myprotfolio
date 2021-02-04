@@ -32,7 +32,7 @@ Following gives the overview of my professional expertise-
 - Successfully solved technical challenges in the Acquiring system for maintaining production stability.
 - Directly interacted with business SMEs and customers for gathering requirements and solving business issues with an analytical skillset.
 - Always had a better understanding of the requirement and proposed a well suited systematic solution approach that benefits the business.
-- Proper management of the timeline estimated for the projects. and developed and delivered SDLC artifacts with ensured quality.
+- Proper management of the timeline estimated for the projects. and developed and delivered SDLC artefacts with ensured quality.
 - Pro-actively Identified system bugs and provided quick solutions.
 - As Project Quality Facilitator, ensured the quality of the deliverable, and acted as a Junior Quality Manager for Cards Acquiring.
 - Always will lend a hand to fellow colleagues in the team when they are stuck up with solving the problems.
