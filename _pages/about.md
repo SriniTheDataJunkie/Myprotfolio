@@ -42,7 +42,7 @@ Following gives the overview of my professional expertise-
 
 You can find my Resumé here:
 
-[Resumé](https://github.com/SriniTheDataJunkie/My-Resume/blob/main/Resume-Srinivasaragavan-Vijayaraghavan.pdf){:target="_blank"} 
+[Resumé](https://github.com/SriniTheDataJunkie/My-Resume/blob/main/Srinivasaragavan_CV.pdf){:target="_blank"} 
 
 <br>
 **Srinivasaragavan Vijayaraghavan** (B.E,PGD Data Science)<br>
